@@ -1,2 +1,2 @@
 # dataSets
-dataSets for DataScience
+DataSets for Data Science project with English Premier League Seasons
